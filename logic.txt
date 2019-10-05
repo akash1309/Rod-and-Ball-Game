@@ -1,0 +1,13 @@
+Game Insights:
+
+This Game is basically a complex version of simple Ball and Rod game.
+In it, the rod will always be moving independent of the fact whether you have pressed
+the keyboard right or left key.
+It will be moving with the same initial speed whether a user presses a key or not but its
+position can be changed according to the situation by the user.
+
+How to Play :
+
+When the ball is approaching bottom surface,
+the user have to change the position of the rod in such a way that the ball lands on the rod.
+Doing so will fetch him points , otherwise the game will end.
